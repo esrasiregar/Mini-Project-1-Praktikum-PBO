@@ -10,10 +10,12 @@ Program Sistem Perbankan merupakan program yang memiliki fitur sederhana yang di
 
 ### Menu Utama
 ![image](https://github.com/user-attachments/assets/edcfc16f-1e65-4509-b297-cb3a526ce175)
+
 Pada saat pengguna pertama kali menjalankan program dan masuk ke program, pengguna akan dihadapkan dengan menu seperti gambar ini. 
 
 ### Menambahkan Rekening Baru (Create)
 ![image](https://github.com/user-attachments/assets/a15a254f-e5bb-4a90-b5e5-786fe195cecb)
+
 Pengguna dapat menambahkan Rekening baru untuk Nasabah baru dengan menyertakan Nomor Rekening, Nama Nasabah dan Setoran Awal.
 
 ### Melihat Rekening Yang Ada (Read)
